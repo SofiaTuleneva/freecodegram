@@ -1,5 +1,6 @@
 Laravel
-VueJS
-Bootstrap
-SASS
+
+Vue.js
 Webpack
+Bootstrap
+Sass
