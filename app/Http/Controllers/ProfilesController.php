@@ -28,7 +28,7 @@ class ProfilesController extends Controller
             'title' => 'required',
             'description' => '',
             'url' => '',
-            'image' => '',
+            'image' => 'image',
         ]);
 
 
@@ -38,18 +38,13 @@ class ProfilesController extends Controller
             $image = Image::make(public_path("storage/{$imagePath}"))->fit(1000, 1000);
             $image->save();
 
-            auth()->user()->profile->update(array_merge(
-                $data,
-                ['image' => $imagePath]
-            ));
+            $imgArray = ['image' => $imagePath];
         }
 
-//        dd(array_merge(
-//            $data,
-//            ['image' => $imagePath]
-//        ));
-
-
+        auth()->user()->profile->update(array_merge(
+            $data,
+            $imgArray ?? []
+        ));
 
         return redirect("/profile/{$user->id}");
     }
