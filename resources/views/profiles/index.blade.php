@@ -4,8 +4,9 @@
 <div class="container">
     <div class="row">
         <div class="col-3 p-5 text-center">
-            <img src="https://instagram.fhel6-1.fna.fbcdn.net/vp/b9b39f52137901effb21e8c4eb041f11/5DB47138/t51.2885-19/s150x150/22709172_932712323559405_7810049005848625152_n.jpg?_nc_ht=instagram.fhel6-1.fna.fbcdn.net"
-                class="rounded-circle"
+            <img
+                src="/storage/{{$user->profile->image}}"
+                class="rounded-circle w-100"
             >
         </div>
         <div class="col-9 pt-5">
