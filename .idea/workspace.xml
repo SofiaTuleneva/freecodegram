@@ -1,54 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c6e3a82-cf01-49fa-b42f-1b983281dd07" name="Default Changelist" comment="add Post Page">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/FollowsController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Providers/TelescopeServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/telescope.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_07_19_154133_creates_profile_user_pivot_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/telescope/app-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/telescope/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/telescope/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/telescope/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/telescope/mix-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/FollowButton.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/posts/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/11e4e65218b9cf9a0c6f23d3a6ade9fc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/6cec6663-d869-46e5-bbb7-96e3ddd6dfb6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/Evening_Forests_Mountains_Firewatch_Campo_Santo_549147_1280x720.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/Header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/NSwitchDS_Firewatch_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/NSwitchDS_Firewatch_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/Parkin-Firewatch1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/f42a85705dcb548ce6d26dc657630dc72b03d7d0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/firewatch 01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/firewatch-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/firewatch-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/firewatch-e3-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/firewatch-map-ui-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/firewatch-screen-12-us-15jun15.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/firewatch_150305_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/maxresdefault (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wallpaper/tumblr_o3j0o8PEYW1rl7aayo1_1280.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/freeCodeGram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/freeCodeGram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="3c6e3a82-cf01-49fa-b42f-1b983281dd07" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Profile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/posts/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/index.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -282,7 +238,7 @@
       <workItem from="1563430634402" duration="1100000" />
       <workItem from="1563432049384" duration="2609000" />
       <workItem from="1563552809012" duration="3735000" />
-      <workItem from="1563792592458" duration="12531000" />
+      <workItem from="1563792592458" duration="13139000" />
     </task>
     <task id="LOCAL-00001" summary="add Profiles, Posts">
       <created>1563370284780</created>
@@ -340,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563530745715</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add Follow button, add home page Feed">
+      <created>1563890594715</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1563890594715</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,6 +353,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="add Profiles, Posts" />
     <MESSAGE value="add Image Convertor, Posts Count" />
     <MESSAGE value="add Image Convertor, Posts Count, remove Voyager" />
@@ -398,6 +362,7 @@
     <MESSAGE value="create new Profile automatically after User registration, beautify Post page" />
     <MESSAGE value="add default image for Profile Image" />
     <MESSAGE value="add Profile Image Validation" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Profile Image Validation" />
+    <MESSAGE value="add Follow button, add home page Feed" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Follow button, add home page Feed" />
   </component>
 </project>
