@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c6e3a82-cf01-49fa-b42f-1b983281dd07" name="Default Changelist" comment="add Home Page Feed Pagination">
+    <list default="true" id="3c6e3a82-cf01-49fa-b42f-1b983281dd07" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,9 +155,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.env" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.16.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/posts" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -305,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563890594715</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add Cash">
+      <created>1563952084439</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563952084439</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +323,31 @@
     <option name="TAB_STATES">
       <map>
         <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
           <value>
             <State>
               <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
@@ -351,6 +384,7 @@
     <option name="OPEN_TABS">
       <set>
         <option value="1" />
+        <option value="2" />
       </set>
     </option>
   </component>
@@ -365,6 +399,7 @@
     <MESSAGE value="add default image for Profile Image" />
     <MESSAGE value="add Profile Image Validation" />
     <MESSAGE value="add Follow button, add home page Feed" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Follow button, add home page Feed" />
+    <MESSAGE value="add Cash" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Cash" />
   </component>
 </project>
